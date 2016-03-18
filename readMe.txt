@@ -8,3 +8,6 @@ this is test-d
 
 this is test -e
 a b c d e f g
+
+this is test -c
+==================
