@@ -3,7 +3,7 @@
 
 _KC_PAGE_LANG_LOADER('ru_RU', {
   "login.or.siginup": "请先 <a href='{loginUrl}'>测asdf试一下sdf哇</a>或 <a href='{registerUrl}'>注册</a>",
-  "name": "姓名asd",
+  "name": "姓名asdaaaa",
   "i.know": "我知道了",
   "create.trade.code.title": "创建交易密码",
   "create.trade.code.placeholder": "创建交易密码（输入6位数字）",
