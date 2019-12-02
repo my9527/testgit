@@ -2,7 +2,7 @@
 /* eslint-disable quotes,quote-props,max-len,no-multiple-empty-lines */
 
 _KC_PAGE_LANG_LOADER('en_US', {
-  "login.or.siginup": "请先 <a href='{loginUrl}'>测试一下哇</a>或 <a href='{registerUrl}'>注册</a>",
+  "login.or.siginup": "请先 <a href='{loginUrl}'>测asdf试一下哇</a>或 <a href='{registerUrl}'>注册</a>",
   "name": "姓名",
   "i.know": "我知道了",
   "create.trade.code.title": "创建交易密码",
