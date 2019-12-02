@@ -7,7 +7,7 @@ _KC_PAGE_LANG_LOADER('en_US', {
   "i.know": "我知道了",
   "create.trade.code.title": "创建交易密码",
   "create.trade.code.placeholder": "创建交易密码（输入6位数字）",
-  "trade.code.warning": "交易密码是2.0新增安全机制，用于交易、提现、创建API等重要功能的六位数字密码<span class='color-danger'>（注意不是2FA）</span>",
+  "trade.code.warning": "交易密码是s2.0新增安全机制，用于交易、提现、创建API等重要功能的六位数字密码<span class='color-danger'>（注意不是2FA）</span>",
   "trade.code.warning.short": "<span class='color-danger'>(注意:不是2FA)</span>",
   "kyc.form.handlePhoto.rule5": "'Signature'",
   "assets.in.otherAddress": "{coin} 平台地址",
