@@ -2,7 +2,7 @@
 /* eslint-disable quotes,quote-props,max-len,no-multiple-empty-lines */
 
 _KC_PAGE_LANG_LOADER('zh_CN', {
-  "login.or.siginup": "<a href='{loginUrl}'>Log Iasdfasdfn</a> or <a href='{registerUrl}'>Sign Up</a>",
+  "login.or.siginup": "<a href='{loginUrl}'>Log Iasdfasdfn4445555</a> or <a href='{registerUrl}'>Sign Up</a>",
   "name": "Name2345",
   "i.know": "Okay, I Understand",
   "create.trade.code.title": "Create Trading Password",
