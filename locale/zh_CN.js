@@ -4,7 +4,7 @@
 _KC_PAGE_LANG_LOADER('zh_CN', {
   "login.or.siginup": "<a href='{loginUrl}'>Log Iasdfasdfn4445555</a> or <a href='{registerUrl}'>Sign Up</a>",
   "name": "Name2345sdf",
-  "i.know": "Okay, I Understand",
+  "i.know": "Okay, I Understandsdfgsd",
   "create.trade.code.title": "Create Trading Password",
   "create.trade.code.placeholder": "Create trading password (60099009 digit)",
   "trade.code.warning": "The trading password is a newly added security mechanism on platform 2.0 and is a six-digit password used for important operations such as transaction, withdrawal, and API creation.<span class='color-danger'>(Please be noted that the trading password is not 2FA code)</span>",
