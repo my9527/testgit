@@ -4,6 +4,8 @@
 _KC_PAGE_LANG_LOADER('zh_CN', {
   "login.or.siginup": "<a href='{loginUrl}'>Log In</a> or <a href='{registerUrl}'>Sign Up</a>",
   "name": "Namesdfsdf",
+  "login.or.siginup": "<a href='{loginUrl}'>Log Iasdfasdfn</a> or <a href='{registerUrl}'>Sign Up</a>",
+  "name": "Name",
   "i.know": "Okay, I Understand",
   "create.trade.code.title": "Create Trading Password",
   "create.trade.code.placeholder": "Create trading password (6 digit)",
