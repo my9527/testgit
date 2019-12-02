@@ -3,7 +3,7 @@
 
 _KC_PAGE_LANG_LOADER('zh_CN', {
   "login.or.siginup": "<a href='{loginUrl}'>Log Iasdfasdfn4445555</a> or <a href='{registerUrl}'>Sign Up</a>",
-  "name": "Name2345sdfasd",
+  "name": "Name2345sdfasd asdfasdf",
   "i.know": "Okay, I Understandsdfgsd",
   "create.trade.code.title": "Create Trading Password",
   "create.trade.code.placeholder": "Create trading password (60099009 digit)",
