@@ -6,7 +6,7 @@ _KC_PAGE_LANG_LOADER('zh_CN', {
   "name": "Namesdfsdf",
   "i.know": "Okay, I Understand",
   "create.trade.code.title": "Create Trading Password",
-  "create.trade.code.placeholder": "Create trading password (6 digit)",
+  "create.trade.code.placeholder": "Create trading password (60099009 digit)",
   "trade.code.warning": "The trading password is a newly added security mechanism on platform 2.0 and is a six-digit password used for important operations such as transaction, withdrawal, and API creation.<span class='color-danger'>(Please be noted that the trading password is not 2FA code)</span>",
   "trade.code.warning.short": "<span class='color-danger'>(Notice: Not 2FA code)</span>",
   "kyc.form.handlePhoto.rule5": "'Signature'",
