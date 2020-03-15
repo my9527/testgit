@@ -2,6 +2,6 @@
 
 _KC_PAGE_LANG_LOADER('zh_CN', {
   "name": "姓名",
-  "age": "345352"
+  "age": "34535sds2"
 });
 
