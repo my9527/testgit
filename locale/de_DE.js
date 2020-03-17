@@ -1923,7 +1923,7 @@ _KC_PAGE_LANG_LOADER('de_DE', {
   "menu.support.desc": "KuCoin帮助中心",
   "margin.lend.confirm.prospectiveYield": "预计收益",
   "margin.lend.confirm.period": "单笔期限",
-  "margin.lend.confirm.sureLend": "确认借出"
+  "margin.lend.confirm.sureLend": "确认借出",
 
   "global.slogan": "aaaaaaa",
   "age": "12233sdfs",
