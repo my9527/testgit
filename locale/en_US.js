@@ -1,7 +1,7 @@
 export default {
   "global.title": "Pool-X/可以交易锁定资产的新一代POS矿池",
   "global.description": "可以交易锁定资产的新一代POS矿池",
-  "global.slogan": "史蒂夫收到",
+  "global.slogan": "12221",
   "layout.link.home": "首页",
   "layout.link.platform.intro": "平台介绍",
   "layout.link.pol.intro": "POL介绍",
