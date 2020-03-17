@@ -1,7 +1,7 @@
 export default {
   "global.title": "Pool-X/可以交易锁定资产的新一代POS矿池",
   "global.description": "可以交易锁定资产的新一代POS矿池",
-  "global.slogan": "12221",
+  "global.slogan": "aaaaaaa",
   "layout.link.home": "首页",
   "layout.link.platform.intro": "平台介绍",
   "layout.link.pol.intro": "POL介绍",
@@ -257,5 +257,5 @@ export default {
   "ldp.rule.drop.map.th.3": "加速系数",
   "layout.footer.slogan2": "基于波场TRC20协议发行",
 
-  "age": "werwerwe",
+  "age": "12233sdfs",
 }
