@@ -257,5 +257,5 @@ export default {
   "ldp.rule.drop.map.th.3": "加速系数",
   "layout.footer.slogan2": "基于波场TRC20协议发行",
 
-  "age": "阿斯顿发生",
+  "age": "werwerwe",
 }
