@@ -303,4 +303,7 @@ export default {
 
   "global.slogan": "aaaaaaa",
   "age": "12233sdfs",
+
+  "global.slogan": "aaaaaaa",
+  "age": "12233sdfs",
 }
