@@ -6,14 +6,5 @@ _KC_PAGE_LANG_LOADER('de_DE', {
 
   "global.slogan": "<a href=\\${valSig}https://www.baidu.com\\${valSig}> sd'dfs\\${valSig}sdf\\${valSig}dsfgsdfgsdfgf</a>",
   "age": "asfasdf",
-
-  "global.slogan": "<a href=\"https://www.baidu.com\"> sd\'dfs\"sdf\"dsfgsdfgsdfgf</a>",
-  "age": "asfasdf",
-
-  "global.slogan": "<a href=\"https://www.baidu.com\"> sd\'dfs\"sdf\"dsfgsdfgsdfgf</a>",
-  "age": "asfasdf",
-
-  "global.slogan": "<a href=\"https://www.baidu.com\"> sd\'dfs\"sdf\"dsfgsdfgsdfgf</a>",
-  "age": "asfasdf",
 });
 
