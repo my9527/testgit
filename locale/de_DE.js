@@ -8,5 +8,7 @@ _KC_PAGE_LANG_LOADER('de_DE', {
   "age": "asfasdf",
 
   "global.slogan": "<a href=\"https://www.baidu.com\"> sd\'dfs\"sdf\"dsfgsdfgsdfgf</a>",
+
+  "global.slogan": "<a href=\"https://www.baidu.com\"> sd\'dfs\"sdf\"dsfgsdfgsdfgf</a>",
 });
 
